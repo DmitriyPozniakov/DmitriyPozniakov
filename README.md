@@ -28,7 +28,8 @@ I'm **a Junior Frontend Developer** passionate about creating clean, responsive,
 
 I've worked on **a wide range of projects**, from dynamic UI components to **fullstack e-commerce platforms** with features like:
 
-- 🛒 Product listings & filtering  
-- 👤 User authentication  
-- 🧾 Shopping cart & order systems  
+- 🛒 Product listings & filtering
+- 👤 User authentication
+- 🧾 Shopping cart & order systems
 - 🗃️ Admin dashboards
+- 🎯 Landing pages with responsive layouts, SEO optimization, animations, and conversion-focused design
