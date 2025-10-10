@@ -17,7 +17,7 @@ I'm **a Junior Frontend Developer** passionate about creating clean, responsive,
 - ⚡ **Nuxt.js**
 - ⚙️ **Vue.js**, **Vuex**, **Pinia**
 - ✨ **TypeScript**, **JavaScript**
-- 🎨 **HTML**, **CSS**, **SCSS**
+- 🎨 **HTML**, **CSS**, **SCSS**, **Tailwind**
 
 ### 🛠️ Backend Experience:
 - 🧩 **Node.js**, **Express**
