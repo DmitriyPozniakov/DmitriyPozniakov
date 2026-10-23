@@ -96,16 +96,6 @@ I've worked on **a wide range of projects**, from dynamic UI components to **ful
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DmitriyPozniakov&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 </p>
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DmitriyPozniakov/DmitriyPozniakov/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DmitriyPozniakov/DmitriyPozniakov/output/github-snake.svg" />
-    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/DmitriyPozniakov/DmitriyPozniakov/output/github-snake.svg" />
-  </picture>
-</p>
-
 <!-- Animated footer -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:336791,50:1572B6,100:00DC82&height=120&section=footer&animation=twinkling" width="100%" />
