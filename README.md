@@ -6,7 +6,7 @@
 <!-- Typing animation -->
 <p align="center">
   <a href="https://pozniakovdeveloper.netlify.app/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00DC82&center=true&vCenter=true&width=650&lines=Junior+Frontend+Developer+%F0%9F%91%8B;Nuxt+%7C+Vue+%7C+TypeScript+%7C+Tailwind;Payment+integrations%3A+Apple+Pay+%7C+Google+Pay+%7C+Nuvei+%F0%9F%92%B3;Node.js+%7C+Express+%7C+PostgreSQL+%7C+MongoDB;Clean%2C+responsive+%26+modern+web+apps+%E2%9C%A8" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00DC82&center=true&vCenter=true&width=650&lines=Junior+Frontend+Developer+%F0%9F%91%8B;Nuxt+%7C+Vue+%7C+TypeScript+%7C+Tailwind;Payment+integrations+%F0%9F%92%B3;Node.js+%7C+Express+%7C+PostgreSQL+%7C+MongoDB;Clean%2C+responsive+%26+modern+web+apps+%E2%9C%A8" alt="Typing SVG" />
   </a>
 </p>
 
@@ -95,6 +95,16 @@ I've worked on **a wide range of projects**, from dynamic UI components to **ful
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DmitriyPozniakov&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+</p>
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DmitriyPozniakov/DmitriyPozniakov/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DmitriyPozniakov/DmitriyPozniakov/output/github-snake.svg" />
+    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/DmitriyPozniakov/DmitriyPozniakov/output/github-snake.svg" />
+  </picture>
 </p>
 
 <!-- Animated footer -->
