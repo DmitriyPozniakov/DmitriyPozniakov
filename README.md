@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=USERNAME&label=Profile%20views&color=00DC82&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=DmitriyPozniakov&label=Profile%20views&color=00DC82&style=flat" alt="profile views" />
 </p>
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About me
@@ -85,16 +85,16 @@ I've worked on **a wide range of projects**, from dynamic UI components to **ful
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=DmitriyPozniakov&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DmitriyPozniakov&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=USERNAME&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=DmitriyPozniakov&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DmitriyPozniakov&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 </p>
 
 <!-- Animated footer -->
