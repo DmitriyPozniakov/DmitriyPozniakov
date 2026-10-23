@@ -58,7 +58,6 @@ I'm **a Junior Frontend Developer** passionate about creating clean, responsive,
 ### 💳 Payment Integrations
 ![Apple Pay](https://img.shields.io/badge/Apple_Pay-000000?style=for-the-badge&logo=applepay&logoColor=white)
 ![Google Pay](https://img.shields.io/badge/Google_Pay-4285F4?style=for-the-badge&logo=googlepay&logoColor=white)
-![Nuvei](https://img.shields.io/badge/Nuvei-0B1F3A?style=for-the-badge&logo=cashapp&logoColor=00E1C3)
 
 ### 🚀 Tools & Deploy
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -77,7 +76,7 @@ I've worked on **a wide range of projects**, from dynamic UI components to **ful
 - 🛒 Product listings & filtering
 - 👤 User authentication
 - 🧾 Shopping cart & order systems
-- 💳 **Checkout with Apple Pay, Google Pay & Nuvei** — payment sessions, 3DS flows, webhooks & order status sync
+- 💳 **Payment integrations** — Apple Pay, Google Pay & various payment providers: checkout flows, 3DS, webhooks & order status sync
 - 🐘 **PostgreSQL** data modeling — relations, indexes, transactions for orders & payments
 - 🗃️ Admin dashboards
 - 🎯 Landing pages with responsive layouts, SEO optimization, animations, and conversion-focused design
